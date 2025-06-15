@@ -77,4 +77,4 @@ $${LTV / CAC} = \frac{LTV}{CAC} $$
 
 #### ↪ Tiếp tục thực hiện chiến lược kinh doanh của công ty, Marketing thêm nhằm tăng cường số lượng khách hàng mới, phát triển thêm phần mềm mới tới các khách hàng cũ -> nhằm tối ưu hơn về chính sách hậu mãi, cũng như tăng thêm lợi nhuận từng khách hàng lên.
 
-## * NOTE: Tất cả các code thực hiện tôi để trong đường dẫn sau đây ↪ 
+## $\color{red}{\text {⭐NOTE:}}$ Tất cả các code thực hiện tôi để trong đường dẫn sau đây ↪ [Code thực hiện lấy và tính toán dữ liệu](https://github.com/haduy2009sg/Duy_Swisscoding_practice-6_1/blob/main/Duy_practice_6_1.ipynb)
