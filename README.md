@@ -49,7 +49,7 @@ $${GrossMargin} = \frac{(Revenue - COGS)}{Revenue}*100 $$
  ### ✅3.5 LVT
 $$ {LTV} = {ARPU}*{CustomerLifespan}*{GrossMargin} $$
 
-* 'CustomerLifespan' được dựa trên **Google sheet: customers_lifespan_data** theo trung bình tháng 30 ngày.
+* 'CustomerLifespan' được dựa trên **Google sheet: customers_lifespan_data** tính toán theo trung bình tháng 30 ngày.
 * 'CustomerLifespan' = 9.84,'Gross Margin' = 75.6%, 'ARPU' = $284.36.
 
 **_↪ LVT = $2115.52_**
