@@ -2,7 +2,7 @@
 
 ## 1. Bối cảnh
 * Ở practice này tôi cần đánh giá giúp công ty **TechStream Solutions** đánh giá *đơn vị kinh tế* của công ty trên mỗi cơ sở khách hàng, dựa trên dữ liệu họ thu thập được thông quá trình kinh doanh nhiều năm qua. Sản phẩm kinh doanh của họ là *nền tảng Software as a Service (SaaS)* có tên là *'Streamline Pro'*.
-* **_TechStream Solutions_** cung cấp dự liệu trong đường dần sau đây: ![Dữ liệu thu thấp của **_TechStream Solutions_**][
+* **_TechStream Solutions_** cung cấp dự liệu trong đường dần sau đây: [Dữ liệu thu thấp của **_TechStream Solutions_**][Source_pratice_6_1.htm]
 * Mục tiêu của TechStream Solutions là:
   * Xác định lợi nhuận của việc thu hút và giữ chân khách hàng.
   * Đánh giá hiệu quả của chiến lược tiếp thị và bán hàng của họ.
